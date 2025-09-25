@@ -1,0 +1,1934 @@
+﻿[
+    {
+        "card_name": "Kuei, The Earth King",
+        "number": 15,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Clumsy Retelling",
+        "number": 44,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Koh, The Face Stealer",
+        "number": 96,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Combustion Man",
+        "number": 124,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Earthen Shield",
+        "number": 170,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Monk Gyatso",
+        "number": 21,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wan Shi Tong",
+        "number": 75,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Raids on the South",
+        "number": 105,
+        "shape": "saga",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sozin's Comet",
+        "number": 150,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wise Guru",
+        "number": 194,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Appa, Dependable Ally",
+        "number": 4,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Arnook, Chief of the North",
+        "number": 41,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Coerced Fire Sages",
+        "number": 83,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Air Temple Assault",
+        "number": 120,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Badgermole",
+        "number": 158,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Avatar Kyoshi",
+        "number": 5,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Bloodbend",
+        "number": 42,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Drill",
+        "number": 86,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Fang, Loyal in Life",
+        "number": 127,
+        "shape": "transform double faced",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Canyon Guide",
+        "number": 163,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Chin, the Conqueror",
+        "number": 7,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Hama, The Puppetmaster",
+        "number": 53,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Guiding Crystals",
+        "number": 89,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Flame Whips",
+        "number": 132,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Dai Li Operatives",
+        "number": 165,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Outer Wall of Ba Sing Se",
+        "number": 25,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Jeong Jeong, the Deserter",
+        "number": 56,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Journey into the Spirit World",
+        "number": 93,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Master Piandao",
+        "number": 136,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Huu, Swamp's Guardian",
+        "number": 176,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Princess Yue",
+        "number": 27,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "La, Ocean Spirit",
+        "number": 59,
+        "shape": "transform double faced",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Lethal Combustion",
+        "number": 98,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Metalbend",
+        "number": 139,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Nyla, Loyal Shirshu",
+        "number": 186,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Repel the Invaders",
+        "number": 29,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sokka, Cunning Leader",
+        "number": 67,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Mai, Master of Knives",
+        "number": 99,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Savage Hammerslinger",
+        "number": 148,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Veil in Mist",
+        "number": 192,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Southern Temple Elder",
+        "number": 33,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Stalwart Shieldmate",
+        "number": 70,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Thoughtseize",
+        "number": 112,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Zuko, Redeemed",
+        "number": 157,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Yangchen's Oath",
+        "number": 196,
+        "shape": "transform double faced",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Ty Lee, Cheerful Acrobat",
+        "number": 36,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Boiling Rock Prison Guard",
+        "number": 43,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Become Spirit",
+        "number": 80,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Agni Kai",
+        "number": 119,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Bend Energy",
+        "number": 159,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Aang, The Last Airbender",
+        "number": 1,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Elegant Performance",
+        "number": 47,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Canyon Crawler",
+        "number": 82,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Deadly Lightning",
+        "number": 125,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Bosco, Bear",
+        "number": 160,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Earth Armor",
+        "number": 10,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Foggy-Bog Game Hunter",
+        "number": 49,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Crafty Swashbuckler",
+        "number": 84,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Earthquake Hammers",
+        "number": 126,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Disgruntled Cabbage Merchant",
+        "number": 166,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Healing Instructor",
+        "number": 13,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Freeze in the Iceberg",
+        "number": 50,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Dock, Versatile Handyman",
+        "number": 85,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Fiery Tranquility",
+        "number": 128,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Earthbender Worm-Tank",
+        "number": 168,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Imprison in Earth",
+        "number": 14,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Katara, Youthful Idealist",
+        "number": 57,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Encroaching Steam-Tank",
+        "number": 87,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Fire Nation War-Balloon",
+        "number": 130,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Farseek",
+        "number": 172,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Misty Palms Bartender",
+        "number": 19,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Manic Mechanist",
+        "number": 60,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Jun, Bounty Hunter",
+        "number": 94,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Gossiping Pupils",
+        "number": 134,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Hei Bai, Forest Spirit",
+        "number": 175,
+        "shape": "transform double faced",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Momo, Curious Lemur",
+        "number": 20,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Otter Penguin",
+        "number": 61,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Kemurikage",
+        "number": 95,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Haru, Defiant Youth",
+        "number": 135,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Invasion Strike Squad",
+        "number": 178,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Octopus Form",
+        "number": 23,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Overwhelming Wave",
+        "number": 63,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Pentapus Plague",
+        "number": 104,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Melodramatic Wrestler",
+        "number": 137,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Knowledge Seeker",
+        "number": 179,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Ostrich Horse",
+        "number": 24,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Redirection",
+        "number": 66,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rough Rhino Commander",
+        "number": 108,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Passionate Percussionist",
+        "number": 141,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Kyoshi Recruit",
+        "number": 180,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Restorative Spirit Water",
+        "number": 30,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Spirit of the Moon",
+        "number": 68,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sinister Schemer",
+        "number": 110,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Plunderer's Pet",
+        "number": 142,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Last Line Guardians",
+        "number": 181,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sand Sailer",
+        "number": 31,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Spirited Glider",
+        "number": 69,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Tragic Self-Sacrifice",
+        "number": 113,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sokka, Eager for Acclaim",
+        "number": 149,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Listen to the Land",
+        "number": 182,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Swindling Instructor",
+        "number": 35,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Studious Archaeologist",
+        "number": 72,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Treacherous Swamp-Vision",
+        "number": 114,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Summon Clay Soldiers",
+        "number": 151,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Longshot, Bowmaster",
+        "number": 183,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Ursa, Devoted Mother",
+        "number": 37,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Universal Harmony",
+        "number": 74,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Warden of the Boiling Rock",
+        "number": 115,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Theatrical Fight Promoter",
+        "number": 153,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Toph, The Blind Bandit",
+        "number": 190,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wind Blast",
+        "number": 39,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Water-Propelled Submarine",
+        "number": 78,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wolf-Bat",
+        "number": 117,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Zuko, Banished Prince",
+        "number": 156,
+        "shape": "modal double faced",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Traveling Musician",
+        "number": 191,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Young Acolyte",
+        "number": 40,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Defiant Tidepushers",
+        "number": 45,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Callous Collector",
+        "number": 81,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Boisterous Crew",
+        "number": 121,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Box In",
+        "number": 161,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Air Scooter",
+        "number": 2,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Deny Passage",
+        "number": 46,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Forced Conscription",
+        "number": 88,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Boulder Toss",
+        "number": 122,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Cactus Juice",
+        "number": 162,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Airbending Initiate",
+        "number": 3,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Festival Showboater",
+        "number": 48,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Hired Helmsman",
+        "number": 90,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Cathartic Reunion",
+        "number": 123,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Chameleon Bay Fleetmates",
+        "number": 164,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Calming Jasmine Tea",
+        "number": 6,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Frozen Wood Frog",
+        "number": 51,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Inflict Trauma",
+        "number": 91,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Fire Blast",
+        "number": 129,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Dwindling Forces",
+        "number": 167,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Concussive Pebble",
+        "number": 8,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Guidelight Firefly",
+        "number": 52,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Irritable Prisonmaster",
+        "number": 92,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Firebending Initiate",
+        "number": 131,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Earthbending Initiate",
+        "number": 169,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Creeping Crystal",
+        "number": 9,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Honored Spearguard",
+        "number": 54,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Komodo Rhino",
+        "number": 97,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Flaming Fire Flakes",
+        "number": 133,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Estate Ground Bodyguards",
+        "number": 171,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Evade",
+        "number": 11,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Icy Breath",
+        "number": 55,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Merchant's Packbeetle",
+        "number": 100,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Merciless Handler",
+        "number": 138,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Flood the Valley",
+        "number": 173,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Freeze the Chains",
+        "number": 12,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Knock Away",
+        "number": 58,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Midnight Prowler",
+        "number": 101,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Naval Firepult",
+        "number": 140,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Healing Water",
+        "number": 174,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Kyoshi War-Fan",
+        "number": 16,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Outer Waters Patrolsquad",
+        "number": 62,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Moth-Wasp Swarm",
+        "number": 102,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Pyropulsion",
+        "number": 143,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Icicle Spearslingers",
+        "number": 177,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Lower Ring Sentry",
+        "number": 17,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Painted Lady",
+        "number": 64,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Onion Banana Juice",
+        "number": 103,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Raging Rebel",
+        "number": 144,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Marshland Skiff-Swimmer",
+        "number": 184,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Messenger Hawk",
+        "number": 18,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Pass Serpent",
+        "number": 65,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Read the Bones",
+        "number": 106,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Reckless General",
+        "number": 145,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Momentary Advantage",
+        "number": 185,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Nervous Novice",
+        "number": 22,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Stewed Sea Prunes",
+        "number": 71,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Relentless Fury",
+        "number": 107,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rough Rhino Bowman",
+        "number": 146,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Platypus Bear",
+        "number": 187,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Outskirts Patrolman",
+        "number": 26,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Throw in the Cooler",
+        "number": 73,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sidepouch Dynamite",
+        "number": 109,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rough-Blade Renegade",
+        "number": 147,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sabertooth Mooselion",
+        "number": 188,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rambling Herbalist",
+        "number": 28,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Water Skin",
+        "number": 76,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Suffer the Consequences",
+        "number": 111,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sun Warrior Flameshaper",
+        "number": 152,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Struggle Against",
+        "number": 189,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Seismic Sense",
+        "number": 32,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Water Whip",
+        "number": 77,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wasteland Traders",
+        "number": 116,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Unruly Prisoner",
+        "number": 154,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wandering Nomad",
+        "number": 193,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Strong-Arm Soldier",
+        "number": 34,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Waterbending Initiate",
+        "number": 79,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Yuyan Archer",
+        "number": 118,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Warrior's Ferocity",
+        "number": 155,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wolf Warrior's Club",
+        "number": 195,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "West Fortress Cavalry",
+        "number": 38,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Act Natural",
+        "number": 197,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Azula, Firebending Prodigy",
+        "number": 203,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Admiral Zhao",
+        "number": 198,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Bumi, the Mad King",
+        "number": 205,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Suki, Kyoshi Warrior",
+        "number": 240,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Airbender's Meditation",
+        "number": 199,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Southern Raider Squadron",
+        "number": 236,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Diligent Engineer",
+        "number": 211,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Bato of the Southern Tribe",
+        "number": 204,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Uncle Iroh",
+        "number": 245,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Stern Mentor",
+        "number": 239,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Haunting Vision",
+        "number": 219,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Cunning Captain",
+        "number": 209,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rumble Six Earthshaker",
+        "number": 232,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Tale of Oma and Shu",
+        "number": 241,
+        "shape": "saga",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Main Canal Gateguards",
+        "number": 225,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Steady-March Platoon",
+        "number": 238,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Rockshot Artillery",
+        "number": 230,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "South-Sands Cutpurse",
+        "number": 235,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Firebending Masters",
+        "number": 213,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Spiritual Retribution",
+        "number": 237,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Chieftain of the Sun",
+        "number": 208,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Unagi",
+        "number": 244,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Sandbender Lackeys",
+        "number": 233,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "The Royal Agni Kai",
+        "number": 231,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Guiding Wolf",
+        "number": 218,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Deface History",
+        "number": 210,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Walltop Dousers",
+        "number": 246,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Pivotal Decision",
+        "number": 229,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Chain-Pain Specialist",
+        "number": 206,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Hungry Catgator",
+        "number": 220,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Terra Team Enforcers",
+        "number": 242,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Meditating Spirit",
+        "number": 226,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Firelord Ozai",
+        "number": 214,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Jet, Freedom Fighter",
+        "number": 222,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Toph, the First Metalbender",
+        "number": 243,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Grandmaster Pakku",
+        "number": 217,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Imperial Firebenders",
+        "number": 221,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grand Palace Generals",
+        "number": 216,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Open the Chakra",
+        "number": 228,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Firelord Sozin",
+        "number": 215,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Chief Hakoda",
+        "number": 207,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Long Feng, Scheming Advisor",
+        "number": 224,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Avatar Roku",
+        "number": 202,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Mother of Faces",
+        "number": 227,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Katara, Waterbending Master",
+        "number": 223,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sensational Visions",
+        "number": 234,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Avatar Aang",
+        "number": 201,
+        "shape": "planeswalker",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Ancient Lion Turtle",
+        "number": 200,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Enter the Avatar State",
+        "number": 212,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Meteorite Sword",
+        "number": 252,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Hook Swords",
+        "number": 249,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Trusty Boomerang",
+        "number": 258,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Unnecessarily Extravagant Armor",
+        "number": 260,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Blasting Jelly",
+        "number": 247,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Inspiring Dagger",
+        "number": 250,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Pai Sho Board",
+        "number": 255,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Twin Broadswords",
+        "number": 259,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wheel of Punishment",
+        "number": 261,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Detective's Monocle",
+        "number": 248,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Longshot's Bow",
+        "number": 251,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Nomad's Glider",
+        "number": 253,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Ornate Throwing Knives",
+        "number": 254,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Reverent Statue",
+        "number": 256,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Shirshu-Spit Darts",
+        "number": 257,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Southern Air Temple",
+        "number": 273,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Contaminated Rivertown",
+        "number": 265,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Dragonbone Catacombs",
+        "number": 267,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Freedom Fighter Hideout",
+        "number": 268,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Luxurious Estate",
+        "number": 270,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Tranquil Icescape",
+        "number": 277,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Si Wong Nesting Grounds",
+        "number": 272,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Boiling Rock Prison",
+        "number": 263,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Banyan-Grove Swamp",
+        "number": 262,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Western Air Temple",
+        "number": 280,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Spirit Oasis",
+        "number": 275,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crystal Catacombs",
+        "number": 266,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Cave of Two Lovers",
+        "number": 264,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Wan Shi Tong's Library",
+        "number": 279,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Lower Ring Metro",
+        "number": 269,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Northern Tribe Waterway",
+        "number": 271,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Southern Tribe Outpost",
+        "number": 274,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Spirit Wilds",
+        "number": 276,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "Volcanic Capital",
+        "number": 278,
+        "shape": "normal",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Faceless",
+        "number": 1,
+        "shape": "token",
+        "set": "AVA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

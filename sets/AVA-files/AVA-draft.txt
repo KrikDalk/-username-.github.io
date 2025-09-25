@@ -1,0 +1,3132 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Last Line Guardians",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Waterbender Soldier",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/181_Last Line Guardians.png"
+			}
+		},
+		{
+			"name": "Pyropulsion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Sorcery — Firebender",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/143_Pyropulsion.png"
+			}
+		},
+		{
+			"name": "Callous Collector",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/81_Callous Collector.png"
+			}
+		},
+		{
+			"name": "Honored Spearguard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/54_Honored Spearguard.png"
+			}
+		},
+		{
+			"name": "Concussive Pebble",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Earthbender",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/8_Concussive Pebble.png"
+			}
+		},
+		{
+			"name": "Badgermole",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Badger Mole Earthbender",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/158_Badgermole.png"
+			}
+		},
+		{
+			"name": "Gossiping Pupils",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/134_Gossiping Pupils.png"
+			}
+		},
+		{
+			"name": "Appa, Dependable Ally",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Airbender Bison Mount",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/4_Appa, Dependable Ally.png"
+			}
+		},
+		{
+			"name": "Freeze in the Iceberg",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Airbender Waterbender",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/50_Freeze in the Iceberg.png"
+			}
+		},
+		{
+			"name": "Nomad's Glider",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/253_Nomad's Glider.png"
+			}
+		},
+		{
+			"name": "Otter Penguin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Otter Bird Mount",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/61_Otter Penguin.png"
+			}
+		},
+		{
+			"name": "Air Scooter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Airbender",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/2_Air Scooter.png"
+			}
+		},
+		{
+			"name": "Fire Blast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Firebender",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/129_Fire Blast.png"
+			}
+		},
+		{
+			"name": "Firebending Initiate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Firebender",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/131_Firebending Initiate.png"
+			}
+		},
+		{
+			"name": "Forced Conscription",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Kindred Instant — Noble",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/88_Forced Conscription.png"
+			}
+		},
+		{
+			"name": "Hired Helmsman",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/90_Hired Helmsman.png"
+			}
+		},
+		{
+			"name": "Agni Kai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/119_Agni Kai.png"
+			}
+		},
+		{
+			"name": "Boulder Toss",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Earthbender",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/122_Boulder Toss.png"
+			}
+		},
+		{
+			"name": "Momo, Curious Lemur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Lemur",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/20_Momo, Curious Lemur.png"
+			}
+		},
+		{
+			"name": "Monk Gyatso",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Airbender Monk",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/21_Monk Gyatso.png"
+			}
+		},
+		{
+			"name": "Wolf Warrior's Club",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/195_Wolf Warrior's Club.png"
+			}
+		},
+		{
+			"name": "Fiery Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/128_Fiery Tranquility.png"
+			}
+		},
+		{
+			"name": "Komodo Rhino",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Lizard Rhino Mount",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/97_Komodo Rhino.png"
+			}
+		},
+		{
+			"name": "Kyoshi Recruit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/180_Kyoshi Recruit.png"
+			}
+		},
+		{
+			"name": "Kyoshi War-Fan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/16_Kyoshi War-Fan.png"
+			}
+		},
+		{
+			"name": "Suki, Kyoshi Warrior",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/240_Suki, Kyoshi Warrior.png"
+			}
+		},
+		{
+			"name": "The Unagi",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Waterbender Fish Serpent",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/244_The Unagi.png"
+			}
+		},
+		{
+			"name": "Bumi, the Mad King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Earthbender",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/205_Bumi, the Mad King.png"
+			}
+		},
+		{
+			"name": "Creeping Crystal",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/9_Creeping Crystal.png"
+			}
+		},
+		{
+			"name": "Disgruntled Cabbage Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/166_Disgruntled Cabbage Merchant.png"
+			}
+		},
+		{
+			"name": "Earthbending Initiate",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/169_Earthbending Initiate.png"
+			}
+		},
+		{
+			"name": "Chameleon Bay Fleetmates",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/164_Chameleon Bay Fleetmates.png"
+			}
+		},
+		{
+			"name": "Irritable Prisonmaster",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/92_Irritable Prisonmaster.png"
+			}
+		},
+		{
+			"name": "Become Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/80_Become Spirit.png"
+			}
+		},
+		{
+			"name": "Hei Bai, Forest Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Bear Spirit",
+			"collector_number": "175",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://-username-.github.io/sets/AVA-files/img/175_Hei Bai, Forest Spirit_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/175_Hei Bai, Forest Spirit_front.png"
+			}
+		},
+		{
+			"name": "Outskirts Patrolman",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/26_Outskirts Patrolman.png"
+			}
+		},
+		{
+			"name": "Spiritual Retribution",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Kindred Instant — Spirit",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/237_Spiritual Retribution.png"
+			}
+		},
+		{
+			"name": "Coerced Fire Sages",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Firebender Shaman",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/83_Coerced Fire Sages.png"
+			}
+		},
+		{
+			"name": "Naval Firepult",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/140_Naval Firepult.png"
+			}
+		},
+		{
+			"name": "Reverent Statue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/256_Reverent Statue.png"
+			}
+		},
+		{
+			"name": "Crafty Swashbuckler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/84_Crafty Swashbuckler.png"
+			}
+		},
+		{
+			"name": "Cunning Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/209_Cunning Captain.png"
+			}
+		},
+		{
+			"name": "Pai Sho Board",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/255_Pai Sho Board.png"
+			}
+		},
+		{
+			"name": "Boisterous Crew",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/121_Boisterous Crew.png"
+			}
+		},
+		{
+			"name": "Water Whip",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Waterbender",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/77_Water Whip.png"
+			}
+		},
+		{
+			"name": "Blasting Jelly",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/247_Blasting Jelly.png"
+			}
+		},
+		{
+			"name": "Flood the Valley",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/173_Flood the Valley.png"
+			}
+		},
+		{
+			"name": "Hook Swords",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/249_Hook Swords.png"
+			}
+		},
+		{
+			"name": "Icy Breath",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Sorcery — Waterbender",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/55_Icy Breath.png"
+			}
+		},
+		{
+			"name": "Inflict Trauma",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/91_Inflict Trauma.png"
+			}
+		},
+		{
+			"name": "Longshot, Bowmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Rebel Archer",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/183_Longshot, Bowmaster.png"
+			}
+		},
+		{
+			"name": "Raging Rebel",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Rebel Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/144_Raging Rebel.png"
+			}
+		},
+		{
+			"name": "Rough-Blade Renegade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/147_Rough-Blade Renegade.png"
+			}
+		},
+		{
+			"name": "Invasion Strike Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/178_Invasion Strike Squad.png"
+			}
+		},
+		{
+			"name": "Main Canal Gateguards",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Waterbender Soldier",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/225_Main Canal Gateguards.png"
+			}
+		},
+		{
+			"name": "Wind Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Kindred Instant — Airbender",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/39_Wind Blast.png"
+			}
+		},
+		{
+			"name": "Bloodbend",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Kindred Sorcery — Waterbender",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/42_Bloodbend.png"
+			}
+		},
+		{
+			"name": "Haru, Defiant Youth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Human Earthbender",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/135_Haru, Defiant Youth.png"
+			}
+		},
+		{
+			"name": "Chief Hakoda",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/207_Chief Hakoda.png"
+			}
+		},
+		{
+			"name": "Ornate Throwing Knives",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/254_Ornate Throwing Knives.png"
+			}
+		},
+		{
+			"name": "Inspiring Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/250_Inspiring Dagger.png"
+			}
+		},
+		{
+			"name": "Katara, Youthful Idealist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Waterbender",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/57_Katara, Youthful Idealist.png"
+			}
+		},
+		{
+			"name": "Aang, The Last Airbender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Monk Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/1_Aang, The Last Airbender.png"
+			}
+		},
+		{
+			"name": "Zuko, Banished Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Firebender",
+			"collector_number": "156",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://-username-.github.io/sets/AVA-files/img/156_Zuko, Banished Prince_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/156_Zuko, Banished Prince_front.png"
+			}
+		},
+		{
+			"name": "Foggy-Bog Game Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/49_Foggy-Bog Game Hunter.png"
+			}
+		},
+		{
+			"name": "Misty Palms Bartender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/19_Misty Palms Bartender.png"
+			}
+		},
+		{
+			"name": "Young Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Airbender Monk",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/40_Young Acolyte.png"
+			}
+		},
+		{
+			"name": "Katara, Waterbending Master",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Waterbender",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/223_Katara, Waterbending Master.png"
+			}
+		},
+		{
+			"name": "Toph, The Blind Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Earthbender",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/190_Toph, The Blind Bandit.png"
+			}
+		},
+		{
+			"name": "Toph, the First Metalbender",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Earthbender",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/243_Toph, the First Metalbender.png"
+			}
+		},
+		{
+			"name": "Clumsy Retelling",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/44_Clumsy Retelling.png"
+			}
+		},
+		{
+			"name": "Unnecessarily Extravagant Armor",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/260_Unnecessarily Extravagant Armor.png"
+			}
+		},
+		{
+			"name": "Meteorite Sword",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/252_Meteorite Sword.png"
+			}
+		},
+		{
+			"name": "Trusty Boomerang",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/258_Trusty Boomerang.png"
+			}
+		},
+		{
+			"name": "Combustion Man",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Creature — Human Firebender Assassin",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/124_Combustion Man.png"
+			}
+		},
+		{
+			"name": "Lethal Combustion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Kindred Sorcery — Firebender",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/98_Lethal Combustion.png"
+			}
+		},
+		{
+			"name": "Wan Shi Tong's Library",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/279_Wan Shi Tong's Library.png"
+			}
+		},
+		{
+			"name": "Knowledge Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/179_Knowledge Seeker.png"
+			}
+		},
+		{
+			"name": "Koh, The Face Stealer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Insect Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/96_Koh, The Face Stealer.png"
+			}
+		},
+		{
+			"name": "Faceless",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/1_Faceless.png"
+			}
+		},
+		{
+			"name": "Wan Shi Tong",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Bird Spirit",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/75_Wan Shi Tong.png"
+			}
+		},
+		{
+			"name": "Firelord Sozin",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Firebender Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/215_Firelord Sozin.png"
+			}
+		},
+		{
+			"name": "Air Temple Assault",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/120_Air Temple Assault.png"
+			}
+		},
+		{
+			"name": "Rough Rhino Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/108_Rough Rhino Commander.png"
+			}
+		},
+		{
+			"name": "Boiling Rock Prison Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/43_Boiling Rock Prison Guard.png"
+			}
+		},
+		{
+			"name": "Diligent Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/211_Diligent Engineer.png"
+			}
+		},
+		{
+			"name": "Imperial Firebenders",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/221_Imperial Firebenders.png"
+			}
+		},
+		{
+			"name": "Rumble Six Earthshaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/232_Rumble Six Earthshaker.png"
+			}
+		},
+		{
+			"name": "Grand Palace Generals",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/216_Grand Palace Generals.png"
+			}
+		},
+		{
+			"name": "Earthquake Hammers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/126_Earthquake Hammers.png"
+			}
+		},
+		{
+			"name": "Cactus Juice",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Food",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/162_Cactus Juice.png"
+			}
+		},
+		{
+			"name": "Calming Jasmine Tea",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Food",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/6_Calming Jasmine Tea.png"
+			}
+		},
+		{
+			"name": "Stewed Sea Prunes",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Food",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/71_Stewed Sea Prunes.png"
+			}
+		},
+		{
+			"name": "Flaming Fire Flakes",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Food",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/133_Flaming Fire Flakes.png"
+			}
+		},
+		{
+			"name": "Onion Banana Juice",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Food",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/103_Onion Banana Juice.png"
+			}
+		},
+		{
+			"name": "The Outer Wall of Ba Sing Se",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Wall",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/25_The Outer Wall of Ba Sing Se.png"
+			}
+		},
+		{
+			"name": "Earthen Shield",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Kindred Instant — Earthbender",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/170_Earthen Shield.png"
+			}
+		},
+		{
+			"name": "Kuei, The Earth King",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/15_Kuei, The Earth King.png"
+			}
+		},
+		{
+			"name": "Ancient Lion Turtle",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creatue — Cat Turtle",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/200_Ancient Lion Turtle.png"
+			}
+		},
+		{
+			"name": "Tragic Self-Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/113_Tragic Self-Sacrifice.png"
+			}
+		},
+		{
+			"name": "Deadly Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Firebender",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/125_Deadly Lightning.png"
+			}
+		},
+		{
+			"name": "Flame Whips",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Kindred Sorcery — Firebender",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/132_Flame Whips.png"
+			}
+		},
+		{
+			"name": "Redirection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Firebender Waterbender",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/66_Redirection.png"
+			}
+		},
+		{
+			"name": "Fang, Loyal in Life",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Firebender Dragon",
+			"collector_number": "127",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://-username-.github.io/sets/AVA-files/img/127_Fang, Loyal in Life_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/127_Fang, Loyal in Life_front.png"
+			}
+		},
+		{
+			"name": "La, Ocean Spirit",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Waterbender Fish Spirit",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://-username-.github.io/sets/AVA-files/img/59_La, Ocean Spirit_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/59_La, Ocean Spirit_front.png"
+			}
+		},
+		{
+			"name": "Jun, Bounty Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/94_Jun, Bounty Hunter.png"
+			}
+		},
+		{
+			"name": "Nyla, Loyal Shirshu",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Creature — Mole Beast",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/186_Nyla, Loyal Shirshu.png"
+			}
+		},
+		{
+			"name": "Hama, The Puppetmaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Human Waterbender",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/53_Hama, The Puppetmaster.png"
+			}
+		},
+		{
+			"name": "Banyan-Grove Swamp",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/262_Banyan-Grove Swamp.png"
+			}
+		},
+		{
+			"name": "Sensational Visions",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/234_Sensational Visions.png"
+			}
+		},
+		{
+			"name": "The Firebending Masters",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Firebender Dragon",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/213_The Firebending Masters.png"
+			}
+		},
+		{
+			"name": "Admiral Zhao",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Firebender Soldier",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/198_Admiral Zhao.png"
+			}
+		},
+		{
+			"name": "Grandmaster Pakku",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Human Waterbender",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/217_Grandmaster Pakku.png"
+			}
+		},
+		{
+			"name": "Suffer the Consequences",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/111_Suffer the Consequences.png"
+			}
+		},
+		{
+			"name": "Zuko, Redeemed",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Firebender Noble",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/157_Zuko, Redeemed.png"
+			}
+		},
+		{
+			"name": "Firelord Ozai",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Human Firebender Noble",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/214_Firelord Ozai.png"
+			}
+		},
+		{
+			"name": "Azula, Firebending Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Firebender Noble",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/203_Azula, Firebending Prodigy.png"
+			}
+		},
+		{
+			"name": "Sozin's Comet",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/150_Sozin's Comet.png"
+			}
+		},
+		{
+			"name": "Water Skin",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/76_Water Skin.png"
+			}
+		},
+		{
+			"name": "Sokka, Eager for Acclaim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/149_Sokka, Eager for Acclaim.png"
+			}
+		},
+		{
+			"name": "Act Natural",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/197_Act Natural.png"
+			}
+		},
+		{
+			"name": "Warrior's Ferocity",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/155_Warrior's Ferocity.png"
+			}
+		},
+		{
+			"name": "Jet, Freedom Fighter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Human Rebel Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/222_Jet, Freedom Fighter.png"
+			}
+		},
+		{
+			"name": "Canyon Crawler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/82_Canyon Crawler.png"
+			}
+		},
+		{
+			"name": "Canyon Guide",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/163_Canyon Guide.png"
+			}
+		},
+		{
+			"name": "Airbending Initiate",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Airbender",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/3_Airbending Initiate.png"
+			}
+		},
+		{
+			"name": "Sinister Schemer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Firebender",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/110_Sinister Schemer.png"
+			}
+		},
+		{
+			"name": "Southern Temple Elder",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Airbender",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/33_Southern Temple Elder.png"
+			}
+		},
+		{
+			"name": "Stern Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Airbender Monk",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/239_Stern Mentor.png"
+			}
+		},
+		{
+			"name": "Frozen Wood Frog",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Frog",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/51_Frozen Wood Frog.png"
+			}
+		},
+		{
+			"name": "Knock Away",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Kindred Instant — Airbender",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/58_Knock Away.png"
+			}
+		},
+		{
+			"name": "Rambling Herbalist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Druid",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/28_Rambling Herbalist.png"
+			}
+		},
+		{
+			"name": "Struggle Against",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/189_Struggle Against.png"
+			}
+		},
+		{
+			"name": "Twin Broadswords",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/259_Twin Broadswords.png"
+			}
+		},
+		{
+			"name": "Yuyan Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Archer",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/118_Yuyan Archer.png"
+			}
+		},
+		{
+			"name": "Platypus Bear",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Platypus Bear",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/187_Platypus Bear.png"
+			}
+		},
+		{
+			"name": "Read the Bones",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/106_Read the Bones.png"
+			}
+		},
+		{
+			"name": "Bato of the Southern Tribe",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/204_Bato of the Southern Tribe.png"
+			}
+		},
+		{
+			"name": "Healing Water",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Kindred Instant — Waterbender",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/174_Healing Water.png"
+			}
+		},
+		{
+			"name": "Jeong Jeong, the Deserter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Firebender",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/56_Jeong Jeong, the Deserter.png"
+			}
+		},
+		{
+			"name": "Relentless Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Firebender",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/107_Relentless Fury.png"
+			}
+		},
+		{
+			"name": "Festival Showboater",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Firebender Performer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/48_Festival Showboater.png"
+			}
+		},
+		{
+			"name": "Deface History",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/210_Deface History.png"
+			}
+		},
+		{
+			"name": "Encroaching Steam-Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/87_Encroaching Steam-Tank.png"
+			}
+		},
+		{
+			"name": "Fire Nation War-Balloon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/130_Fire Nation War-Balloon.png"
+			}
+		},
+		{
+			"name": "Manic Mechanist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/60_Manic Mechanist.png"
+			}
+		},
+		{
+			"name": "Spirited Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/69_Spirited Glider.png"
+			}
+		},
+		{
+			"name": "Arnook, Chief of the North",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Noble Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/41_Arnook, Chief of the North.png"
+			}
+		},
+		{
+			"name": "Elegant Performance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/47_Elegant Performance.png"
+			}
+		},
+		{
+			"name": "Healing Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Waterbender Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/13_Healing Instructor.png"
+			}
+		},
+		{
+			"name": "Outer Waters Patrolsquad",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Waterbender Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/62_Outer Waters Patrolsquad.png"
+			}
+		},
+		{
+			"name": "Princess Yue",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Sprit Noble",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/27_Princess Yue.png"
+			}
+		},
+		{
+			"name": "Walltop Dousers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/246_Walltop Dousers.png"
+			}
+		},
+		{
+			"name": "Nervous Novice",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/22_Nervous Novice.png"
+			}
+		},
+		{
+			"name": "Savage Hammerslinger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/148_Savage Hammerslinger.png"
+			}
+		},
+		{
+			"name": "Waterbending Initiate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/79_Waterbending Initiate.png"
+			}
+		},
+		{
+			"name": "Defiant Tidepushers",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/45_Defiant Tidepushers.png"
+			}
+		},
+		{
+			"name": "Guidelight Firefly",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/52_Guidelight Firefly.png"
+			}
+		},
+		{
+			"name": "Icicle Spearslingers",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/177_Icicle Spearslingers.png"
+			}
+		},
+		{
+			"name": "Journey into the Spirit World",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Kindred Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/93_Journey into the Spirit World.png"
+			}
+		},
+		{
+			"name": "Meditating Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Monkey Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/226_Meditating Spirit.png"
+			}
+		},
+		{
+			"name": "Enter the Avatar State",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/212_Enter the Avatar State.png"
+			}
+		},
+		{
+			"name": "Imprison in Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/14_Imprison in Earth.png"
+			}
+		},
+		{
+			"name": "Reckless General",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Earthbender Soldier",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/145_Reckless General.png"
+			}
+		},
+		{
+			"name": "Restorative Spirit Water",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Kindred Artifact — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/30_Restorative Spirit Water.png"
+			}
+		},
+		{
+			"name": "Uncle Iroh",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Firebender",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/245_Uncle Iroh.png"
+			}
+		},
+		{
+			"name": "West Fortress Cavalry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/38_West Fortress Cavalry.png"
+			}
+		},
+		{
+			"name": "Guiding Crystals",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/89_Guiding Crystals.png"
+			}
+		},
+		{
+			"name": "Octopus Form",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Kindred Sorcery — Waterbending",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/23_Octopus Form.png"
+			}
+		},
+		{
+			"name": "The Cave of Two Lovers",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Cave",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/264_The Cave of Two Lovers.png"
+			}
+		},
+		{
+			"name": "The Tale of Oma and Shu",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/241_The Tale of Oma and Shu.png"
+			}
+		},
+		{
+			"name": "Traveling Musician",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creaturee — Human Nomad Bard",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/191_Traveling Musician.png"
+			}
+		},
+		{
+			"name": "Wandering Nomad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Nomad Bard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/193_Wandering Nomad.png"
+			}
+		},
+		{
+			"name": "Wolf-Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Bat",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/117_Wolf-Bat.png"
+			}
+		},
+		{
+			"name": "Freeze the Chains",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Kindred Instant — Waterbender",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/12_Freeze the Chains.png"
+			}
+		},
+		{
+			"name": "Mai, Master of Knives",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/99_Mai, Master of Knives.png"
+			}
+		},
+		{
+			"name": "Pentapus Plague",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/104_Pentapus Plague.png"
+			}
+		},
+		{
+			"name": "Ty Lee, Cheerful Acrobat",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/36_Ty Lee, Cheerful Acrobat.png"
+			}
+		},
+		{
+			"name": "Farseek",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/172_Farseek.png"
+			}
+		},
+		{
+			"name": "Huu, Swamp's Guardian",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Waterbender Plant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/176_Huu, Swamp's Guardian.png"
+			}
+		},
+		{
+			"name": "Marshland Skiff-Swimmer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Waterbender Pilot",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/184_Marshland Skiff-Swimmer.png"
+			}
+		},
+		{
+			"name": "Avatar Kyoshi",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/5_Avatar Kyoshi.png"
+			}
+		},
+		{
+			"name": "Chain-Pain Specialist",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/206_Chain-Pain Specialist.png"
+			}
+		},
+		{
+			"name": "Chin, the Conqueror",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Earthbender Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/7_Chin, the Conqueror.png"
+			}
+		},
+		{
+			"name": "Detective's Monocle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/248_Detective's Monocle.png"
+			}
+		},
+		{
+			"name": "Haunting Vision",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Spirit Illusion",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/219_Haunting Vision.png"
+			}
+		},
+		{
+			"name": "Hungry Catgator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Crocodile Fish",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/220_Hungry Catgator.png"
+			}
+		},
+		{
+			"name": "Rough Rhino Bowman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/146_Rough Rhino Bowman.png"
+			}
+		},
+		{
+			"name": "Sidepouch Dynamite",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/109_Sidepouch Dynamite.png"
+			}
+		},
+		{
+			"name": "Treacherous Swamp-Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/114_Treacherous Swamp-Vision.png"
+			}
+		},
+		{
+			"name": "Wheel of Punishment",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/261_Wheel of Punishment.png"
+			}
+		},
+		{
+			"name": "Estate Ground Bodyguards",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/171_Estate Ground Bodyguards.png"
+			}
+		},
+		{
+			"name": "Seismic Sense",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Earthbender",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/32_Seismic Sense.png"
+			}
+		},
+		{
+			"name": "Swindling Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Earthbender Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/35_Swindling Instructor.png"
+			}
+		},
+		{
+			"name": "Theatrical Fight Promoter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/153_Theatrical Fight Promoter.png"
+			}
+		},
+		{
+			"name": "Ostrich Horse",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Bird Horse Mount",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/24_Ostrich Horse.png"
+			}
+		},
+		{
+			"name": "Strong-Arm Soldier",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/34_Strong-Arm Soldier.png"
+			}
+		},
+		{
+			"name": "Ursa, Devoted Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Cleric Noble",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/37_Ursa, Devoted Mother.png"
+			}
+		},
+		{
+			"name": "Listen to the Land",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Kindred Instant — Earthbender",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/182_Listen to the Land.png"
+			}
+		},
+		{
+			"name": "Box In",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Kindred Sorcery — Earthbender",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/161_Box In.png"
+			}
+		},
+		{
+			"name": "Earth Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Enchantment — Earthbender Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/10_Earth Armor.png"
+			}
+		},
+		{
+			"name": "Airbender's Meditation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Kindred Sorcery — Airbender",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/199_Airbender's Meditation.png"
+			}
+		},
+		{
+			"name": "Repel the Invaders",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/29_Repel the Invaders.png"
+			}
+		},
+		{
+			"name": "Sabertooth Mooselion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk Cat Beast",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/188_Sabertooth Mooselion.png"
+			}
+		},
+		{
+			"name": "Studious Archaeologist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/72_Studious Archaeologist.png"
+			}
+		},
+		{
+			"name": "Sandbender Lackeys",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Earthbender Rogue",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/233_Sandbender Lackeys.png"
+			}
+		},
+		{
+			"name": "Sand Sailer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/31_Sand Sailer.png"
+			}
+		},
+		{
+			"name": "Deny Passage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/46_Deny Passage.png"
+			}
+		},
+		{
+			"name": "Pass Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/65_Pass Serpent.png"
+			}
+		},
+		{
+			"name": "Terra Team Enforcers",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Earthbender Soldier",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/242_Terra Team Enforcers.png"
+			}
+		},
+		{
+			"name": "The Drill",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/86_The Drill.png"
+			}
+		},
+		{
+			"name": "Bosco, Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Bear",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/160_Bosco, Bear.png"
+			}
+		},
+		{
+			"name": "Long Feng, Scheming Advisor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Earthbender Advisor",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/224_Long Feng, Scheming Advisor.png"
+			}
+		},
+		{
+			"name": "Thoughtseize",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/112_Thoughtseize.png"
+			}
+		},
+		{
+			"name": "Merchant's Packbeetle",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/100_Merchant's Packbeetle.png"
+			}
+		},
+		{
+			"name": "Merciless Handler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Firebender",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/138_Merciless Handler.png"
+			}
+		},
+		{
+			"name": "Shirshu-Spit Darts",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/257_Shirshu-Spit Darts.png"
+			}
+		},
+		{
+			"name": "Wasteland Traders",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/116_Wasteland Traders.png"
+			}
+		},
+		{
+			"name": "South-Sands Cutpurse",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Earthbender Rogue",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/235_South-Sands Cutpurse.png"
+			}
+		},
+		{
+			"name": "Longshot's Bow",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/251_Longshot's Bow.png"
+			}
+		},
+		{
+			"name": "Rockshot Artillery",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Earthbender Soldier",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/230_Rockshot Artillery.png"
+			}
+		},
+		{
+			"name": "Metalbend",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Legendary Kindred Sorcery — Earthbender",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/139_Metalbend.png"
+			}
+		},
+		{
+			"name": "Open the Chakra",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/228_Open the Chakra.png"
+			}
+		},
+		{
+			"name": "Universal Harmony",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/74_Universal Harmony.png"
+			}
+		},
+		{
+			"name": "Wise Guru",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/194_Wise Guru.png"
+			}
+		},
+		{
+			"name": "Overwhelming Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Kindred Sorcery — Waterbender",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/63_Overwhelming Wave.png"
+			}
+		},
+		{
+			"name": "Dai Li Operatives",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/165_Dai Li Operatives.png"
+			}
+		},
+		{
+			"name": "Lower Ring Sentry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/17_Lower Ring Sentry.png"
+			}
+		},
+		{
+			"name": "Sokka, Cunning Leader",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/67_Sokka, Cunning Leader.png"
+			}
+		},
+		{
+			"name": "Spirit of the Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Waterbender Spirit",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/68_Spirit of the Moon.png"
+			}
+		},
+		{
+			"name": "Veil in Mist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Instant — Waterbender",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/192_Veil in Mist.png"
+			}
+		},
+		{
+			"name": "Evade",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/11_Evade.png"
+			}
+		},
+		{
+			"name": "The Painted Lady",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/64_The Painted Lady.png"
+			}
+		},
+		{
+			"name": "Master Piandao",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/136_Master Piandao.png"
+			}
+		},
+		{
+			"name": "Avatar Roku",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/202_Avatar Roku.png"
+			}
+		},
+		{
+			"name": "Messenger Hawk",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/18_Messenger Hawk.png"
+			}
+		},
+		{
+			"name": "Momentary Advantage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/185_Momentary Advantage.png"
+			}
+		},
+		{
+			"name": "Dwindling Forces",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Waterbender",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/167_Dwindling Forces.png"
+			}
+		},
+		{
+			"name": "Earthbender Worm-Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/168_Earthbender Worm-Tank.png"
+			}
+		},
+		{
+			"name": "Stalwart Shieldmate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/70_Stalwart Shieldmate.png"
+			}
+		},
+		{
+			"name": "Water-Propelled Submarine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/78_Water-Propelled Submarine.png"
+			}
+		},
+		{
+			"name": "Steady-March Platoon",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/238_Steady-March Platoon.png"
+			}
+		},
+		{
+			"name": "Passionate Percussionist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Firebender Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/141_Passionate Percussionist.png"
+			}
+		},
+		{
+			"name": "Sun Warrior Flameshaper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Firebender Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/152_Sun Warrior Flameshaper.png"
+			}
+		},
+		{
+			"name": "Chieftain of the Sun",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Firebender Advisor",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/208_Chieftain of the Sun.png"
+			}
+		},
+		{
+			"name": "Warden of the Boiling Rock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/115_Warden of the Boiling Rock.png"
+			}
+		},
+		{
+			"name": "Throw in the Cooler",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/73_Throw in the Cooler.png"
+			}
+		},
+		{
+			"name": "Unruly Prisoner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Firebender",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/154_Unruly Prisoner.png"
+			}
+		},
+		{
+			"name": "Pivotal Decision",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/229_Pivotal Decision.png"
+			}
+		},
+		{
+			"name": "Southern Raider Squadron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Firebender Soldier",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/236_Southern Raider Squadron.png"
+			}
+		},
+		{
+			"name": "The Raids on the South",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/105_The Raids on the South.png"
+			}
+		},
+		{
+			"name": "Summon Clay Soldiers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Earthbender",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/151_Summon Clay Soldiers.png"
+			}
+		},
+		{
+			"name": "The Royal Agni Kai",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/231_The Royal Agni Kai.png"
+			}
+		},
+		{
+			"name": "Avatar Aang",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}{U}",
+			"type": "Planeswalker — Avatar Aang",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/201_Avatar Aang.png"
+			}
+		},
+		{
+			"name": "Bend Energy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/159_Bend Energy.png"
+			}
+		},
+		{
+			"name": "Guiding Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/218_Guiding Wolf.png"
+			}
+		},
+		{
+			"name": "The Kemurikage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/95_The Kemurikage.png"
+			}
+		},
+		{
+			"name": "Moth-Wasp Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/102_Moth-Wasp Swarm.png"
+			}
+		},
+		{
+			"name": "Mother of Faces",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/227_Mother of Faces.png"
+			}
+		},
+		{
+			"name": "Yangchen's Oath",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "196",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://-username-.github.io/sets/AVA-files/img/196_Yangchen's Oath_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/196_Yangchen's Oath_front.png"
+			}
+		},
+		{
+			"name": "Melodramatic Wrestler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Earthbender",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/137_Melodramatic Wrestler.png"
+			}
+		},
+		{
+			"name": "Midnight Prowler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Bird",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/101_Midnight Prowler.png"
+			}
+		},
+		{
+			"name": "Boiling Rock Prison",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/263_Boiling Rock Prison.png"
+			}
+		},
+		{
+			"name": "Contaminated Rivertown",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/265_Contaminated Rivertown.png"
+			}
+		},
+		{
+			"name": "Crystal Catacombs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/266_Crystal Catacombs.png"
+			}
+		},
+		{
+			"name": "Dragonbone Catacombs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/267_Dragonbone Catacombs.png"
+			}
+		},
+		{
+			"name": "Freedom Fighter Hideout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/268_Freedom Fighter Hideout.png"
+			}
+		},
+		{
+			"name": "Lower Ring Metro",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/269_Lower Ring Metro.png"
+			}
+		},
+		{
+			"name": "Luxurious Estate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/270_Luxurious Estate.png"
+			}
+		},
+		{
+			"name": "Northern Tribe Waterway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/271_Northern Tribe Waterway.png"
+			}
+		},
+		{
+			"name": "Si Wong Nesting Grounds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/272_Si Wong Nesting Grounds.png"
+			}
+		},
+		{
+			"name": "Southern Air Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/273_Southern Air Temple.png"
+			}
+		},
+		{
+			"name": "Southern Tribe Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/274_Southern Tribe Outpost.png"
+			}
+		},
+		{
+			"name": "Spirit Oasis",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/275_Spirit Oasis.png"
+			}
+		},
+		{
+			"name": "Spirit Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/276_Spirit Wilds.png"
+			}
+		},
+		{
+			"name": "Tranquil Icescape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/277_Tranquil Icescape.png"
+			}
+		},
+		{
+			"name": "Volcanic Capital",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/278_Volcanic Capital.png"
+			}
+		},
+		{
+			"name": "Western Air Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/280_Western Air Temple.png"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/123_Cathartic Reunion.png"
+			}
+		},
+		{
+			"name": "Plunderer's Pet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creatue — Lizard Bird Pirate",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/142_Plunderer's Pet.png"
+			}
+		},
+		{
+			"name": "Dock, Versatile Handyman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://-username-.github.io/sets/AVA-files/img/85_Dock, Versatile Handyman.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Badgermole
+	5 Appa, Dependable Ally
+	5 Monk Gyatso
+	5 Suki, Kyoshi Warrior
+	5 The Unagi
+	5 Bumi, the Mad King
+	5 Spiritual Retribution
+	5 Coerced Fire Sages
+	5 Hook Swords
+	5 Bloodbend
+	5 Chief Hakoda
+	5 Katara, Waterbending Master
+	5 Toph, the First Metalbender
+	5 Clumsy Retelling
+	5 Unnecessarily Extravagant Armor
+	5 Meteorite Sword
+	5 Trusty Boomerang
+	5 Combustion Man
+	5 Lethal Combustion
+	5 Wan Shi Tong's Library
+	5 Koh, The Face Stealer
+	5 Wan Shi Tong
+	5 Firelord Sozin
+	5 Air Temple Assault
+	5 Imperial Firebenders
+	5 Grand Palace Generals
+	5 The Outer Wall of Ba Sing Se
+	5 Earthen Shield
+	5 Kuei, The Earth King
+	5 Ancient Lion Turtle
+	5 Flame Whips
+	5 Fang, Loyal in Life
+	5 La, Ocean Spirit
+	5 Nyla, Loyal Shirshu
+	5 Hama, The Puppetmaster
+	5 Banyan-Grove Swamp
+	5 Sensational Visions
+	5 The Firebending Masters
+	5 Admiral Zhao
+	5 Grandmaster Pakku
+	5 Zuko, Redeemed
+	5 Firelord Ozai
+	5 Azula, Firebending Prodigy
+	5 Sozin's Comet
+	5 Act Natural
+	5 Jet, Freedom Fighter
+	5 Canyon Guide
+	5 Southern Temple Elder
+	5 Bato of the Southern Tribe
+	5 Jeong Jeong, the Deserter
+	5 Arnook, Chief of the North
+	5 Princess Yue
+	5 Savage Hammerslinger
+	5 Journey into the Spirit World
+	5 Enter the Avatar State
+	5 Uncle Iroh
+	5 Guiding Crystals
+	5 The Cave of Two Lovers
+	5 Mai, Master of Knives
+	5 Ty Lee, Cheerful Acrobat
+	5 Huu, Swamp's Guardian
+	5 Avatar Kyoshi
+	5 Chin, the Conqueror
+	5 Repel the Invaders
+	5 The Drill
+	5 Long Feng, Scheming Advisor
+	5 Thoughtseize
+	5 South-Sands Cutpurse
+	5 Metalbend
+	5 Open the Chakra
+	5 Wise Guru
+	5 Dai Li Operatives
+	5 Sokka, Cunning Leader
+	5 Veil in Mist
+	5 Master Piandao
+	5 Avatar Roku
+	5 Stalwart Shieldmate
+	5 Chieftain of the Sun
+	5 The Raids on the South
+	5 The Royal Agni Kai
+	5 Avatar Aang
+	5 Mother of Faces
+	5 Yangchen's Oath
+[uncommon(3)]
+	5 Last Line Guardians
+	5 Gossiping Pupils
+	5 Freeze in the Iceberg
+	5 Otter Penguin
+	5 Agni Kai
+	5 Momo, Curious Lemur
+	5 Fiery Tranquility
+	5 Kyoshi Recruit
+	5 Disgruntled Cabbage Merchant
+	5 Become Spirit
+	5 Hei Bai, Forest Spirit
+	5 Crafty Swashbuckler
+	5 Pai Sho Board
+	5 Blasting Jelly
+	5 Longshot, Bowmaster
+	5 Invasion Strike Squad
+	5 Wind Blast
+	5 Haru, Defiant Youth
+	5 Inspiring Dagger
+	5 Katara, Youthful Idealist
+	5 Aang, The Last Airbender
+	5 Zuko, Banished Prince
+	5 Foggy-Bog Game Hunter
+	5 Misty Palms Bartender
+	5 Young Acolyte
+	5 Toph, The Blind Bandit
+	5 Knowledge Seeker
+	5 Rough Rhino Commander
+	5 Boiling Rock Prison Guard
+	5 Diligent Engineer
+	5 Rumble Six Earthshaker
+	5 Earthquake Hammers
+	5 Tragic Self-Sacrifice
+	5 Deadly Lightning
+	5 Redirection
+	5 Jun, Bounty Hunter
+	5 Sokka, Eager for Acclaim
+	5 Canyon Crawler
+	5 Sinister Schemer
+	5 Stern Mentor
+	5 Twin Broadswords
+	5 Deface History
+	5 Encroaching Steam-Tank
+	5 Fire Nation War-Balloon
+	5 Manic Mechanist
+	5 Spirited Glider
+	5 Elegant Performance
+	5 Healing Instructor
+	5 Walltop Dousers
+	5 Imprison in Earth
+	5 Restorative Spirit Water
+	5 Octopus Form
+	5 The Tale of Oma and Shu
+	5 Traveling Musician
+	5 Wolf-Bat
+	5 Pentapus Plague
+	5 Farseek
+	5 Treacherous Swamp-Vision
+	5 Wheel of Punishment
+	5 Swindling Instructor
+	5 Theatrical Fight Promoter
+	5 Ostrich Horse
+	5 Ursa, Devoted Mother
+	5 Listen to the Land
+	5 Earth Armor
+	5 Airbender's Meditation
+	5 Studious Archaeologist
+	5 Sandbender Lackeys
+	5 Sand Sailer
+	5 Bosco, Bear
+	5 Universal Harmony
+	5 Overwhelming Wave
+	5 Spirit of the Moon
+	5 Earthbender Worm-Tank
+	5 Water-Propelled Submarine
+	5 Passionate Percussionist
+	5 Warden of the Boiling Rock
+	5 Southern Raider Squadron
+	5 Summon Clay Soldiers
+	5 Bend Energy
+	5 Guiding Wolf
+	5 The Kemurikage
+	5 Melodramatic Wrestler
+	5 Lower Ring Metro
+	5 Northern Tribe Waterway
+	5 Southern Air Temple
+	5 Southern Tribe Outpost
+	5 Spirit Wilds
+	5 Volcanic Capital
+	5 Plunderer's Pet
+	5 Dock, Versatile Handyman
+[common(10)]
+	5 Pyropulsion
+	5 Callous Collector
+	5 Honored Spearguard
+	5 Concussive Pebble
+	5 Nomad's Glider
+	5 Air Scooter
+	5 Fire Blast
+	5 Firebending Initiate
+	5 Forced Conscription
+	5 Hired Helmsman
+	5 Boulder Toss
+	5 Wolf Warrior's Club
+	5 Komodo Rhino
+	5 Kyoshi War-Fan
+	5 Creeping Crystal
+	5 Earthbending Initiate
+	5 Chameleon Bay Fleetmates
+	5 Irritable Prisonmaster
+	5 Outskirts Patrolman
+	5 Naval Firepult
+	5 Reverent Statue
+	5 Cunning Captain
+	5 Boisterous Crew
+	5 Water Whip
+	5 Flood the Valley
+	5 Icy Breath
+	5 Inflict Trauma
+	5 Raging Rebel
+	5 Rough-Blade Renegade
+	5 Main Canal Gateguards
+	5 Ornate Throwing Knives
+	5 Cactus Juice
+	5 Calming Jasmine Tea
+	5 Stewed Sea Prunes
+	5 Flaming Fire Flakes
+	5 Onion Banana Juice
+	5 Suffer the Consequences
+	5 Water Skin
+	5 Warrior's Ferocity
+	5 Airbending Initiate
+	5 Frozen Wood Frog
+	5 Knock Away
+	5 Rambling Herbalist
+	5 Struggle Against
+	5 Yuyan Archer
+	5 Platypus Bear
+	5 Read the Bones
+	5 Healing Water
+	5 Relentless Fury
+	5 Festival Showboater
+	5 Outer Waters Patrolsquad
+	5 Nervous Novice
+	5 Waterbending Initiate
+	5 Defiant Tidepushers
+	5 Guidelight Firefly
+	5 Icicle Spearslingers
+	5 Meditating Spirit
+	5 Reckless General
+	5 West Fortress Cavalry
+	5 Wandering Nomad
+	5 Freeze the Chains
+	5 Marshland Skiff-Swimmer
+	5 Chain-Pain Specialist
+	5 Detective's Monocle
+	5 Haunting Vision
+	5 Hungry Catgator
+	5 Rough Rhino Bowman
+	5 Sidepouch Dynamite
+	5 Estate Ground Bodyguards
+	5 Seismic Sense
+	5 Strong-Arm Soldier
+	5 Box In
+	5 Sabertooth Mooselion
+	5 Deny Passage
+	5 Pass Serpent
+	5 Terra Team Enforcers
+	5 Merchant's Packbeetle
+	5 Merciless Handler
+	5 Shirshu-Spit Darts
+	5 Wasteland Traders
+	5 Longshot's Bow
+	5 Rockshot Artillery
+	5 Lower Ring Sentry
+	5 Evade
+	5 The Painted Lady
+	5 Messenger Hawk
+	5 Momentary Advantage
+	5 Dwindling Forces
+	5 Steady-March Platoon
+	5 Sun Warrior Flameshaper
+	5 Throw in the Cooler
+	5 Unruly Prisoner
+	5 Pivotal Decision
+	5 Moth-Wasp Swarm
+	5 Midnight Prowler
+	5 Boiling Rock Prison
+	5 Contaminated Rivertown
+	5 Crystal Catacombs
+	5 Dragonbone Catacombs
+	5 Freedom Fighter Hideout
+	5 Luxurious Estate
+	5 Si Wong Nesting Grounds
+	5 Spirit Oasis
+	5 Tranquil Icescape
+	5 Western Air Temple
+	5 Cathartic Reunion
